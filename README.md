@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionate about building practical software tools and exploring systems that power the internet. I specialize in creating secure and efficient applications, with a focus on low-level networking and system-level programming.
+I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionate about building practical software tools and exploring systems that power the internet.
 
 - 🔐 Passionate about cybersecurity, ethical hacking, and secure system design
 - 🌐 Strong interest in networking protocols, socket programming, and system-level tools
