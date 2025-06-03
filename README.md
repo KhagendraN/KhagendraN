@@ -29,8 +29,6 @@ I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionat
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhagendraN&layout=compact&theme=radical)](https://github.com/KhagendraN)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhagendraN&theme=radical)](https://github.com/KhagendraN)
-
 
 ## 🔗 Connect with Me
 
