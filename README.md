@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Khagendra Neupane
 
-![Khagendra Neupane](https://media1.tenor.com/m/_ocDyJ8kXv0AAAAC/hi-hi-there.gif)
-
 ## 👨‍💻 About Me
 
 I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionate about building practical software tools and exploring systems that power the internet. I specialize in creating secure and efficient applications, with a focus on low-level networking and system-level programming.
@@ -17,6 +15,9 @@ I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionat
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
@@ -30,7 +31,6 @@ I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionat
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KhagendraN&theme=radical)](https://github.com/KhagendraN)
 
-[![Khagendra's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhagendraN&theme=radical)](https://github.com/KhagendraN)
 
 ## 🔗 Connect with Me
 
