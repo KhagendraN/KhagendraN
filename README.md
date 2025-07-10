@@ -40,7 +40,7 @@ I'm a **cybersecurity and networking enthusiast** from Nepal 🇳🇵, passionat
 - [kn-sock](https://github.com/KhagendraN/kn-sock) – kn-sock is a lightweight and powerful socket programming toolkit for Python that makes networking simpler and more Pythonic
 - [LANConnect-Chat-Application](https://github.com/KhagendraN/LANConnect-Chat-Application) – A local network chat application built with Python
 - [simple-http-server](https://github.com/KhagendraN/simple-http-server) – A simple HTTP server in HTML
-- [AIDesktopAssistant](https://github.com/KhagendraN/AIDesktopAssistant) – An AI-powered desktop assistant
+- [Jarvis-Voice-Assistant](https://github.com/KhagendraN/Jarvis-Voice-Assistant.git) – An AI-powered desktop assistant
 - [ArchShell](https://github.com/KhagendraN/ArchShell) – A shell scripting project in C
 
 ## 🧠 GitHub Streak
