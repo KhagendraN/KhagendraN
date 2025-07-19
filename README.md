@@ -102,8 +102,9 @@ I am a **Cybersecurity and Networking professional** from Nepal 🇳🇵 with a 
 
 ---
 
+## 📈GitHub Stats
 <details>
-  <summary>📈 <strong>See My GitHub Stats</strong></summary>
+  <summary><strong>See My GitHub Stats</strong></summary>
   <br/>
   <p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhagendraN&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="Khagendra's GitHub Stats"/>
