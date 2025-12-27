@@ -1,19 +1,8 @@
 ## Hello, I'm Khagendra Neupane.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+*Immersing myself in the harmonious convergence of software and hardware.*
 
-## About Me
-
-I am a **Cybersecurity and Networking enthusiast** from Nepal with a passion for building secure, high-performance systems. My core expertise lies in Python, C/C++, and Linux systems, where I focus on creating practical tools for network programming and system security.
-
-<details>
-  <summary>🔎 <strong>See more details</strong></summary>
-  <br/>
-  - 🔭 I'm the creator of <strong><a href="https://pypi.org/project/kn-sock/">kn-sock</a></strong>, a Python library that simplifies socket programming.
-  <br/>
-  - 🌱 I'm currently deepening my skills in secure web application development with <strong>Flask</strong> and exploring <strong>AI/ML applications in cybersecurity</strong>.
-  <br/>
-  - 💬 I'm open to collaborating on open-source networking tools and ethical hacking projects. Let's build something amazing together!
-
-  <h3 align="left">Connect & Follow</h3>
+### Connect
+  
   <p align="left">
     <a href="https://www.khagendraneupane.com.np/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website">
@@ -25,7 +14,6 @@ I am a **Cybersecurity and Networking enthusiast** from Nepal with a passion for
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
     </a>
   </p>
-</details>
 
 ---
 
