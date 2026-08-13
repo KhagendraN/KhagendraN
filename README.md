@@ -22,11 +22,11 @@
   <summary><strong>See My GitHub Stats</strong></summary>
   <br/>
   <p align="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhagendraN&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="Khagendra's GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.shion.dev/api?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true" alt="Khagendra's GitHub Stats"/>
     <br/><br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhagendraN&layout=compact&theme=gruvbox&hide_border=true" alt="Khagendra's Top Languages"/>
+    <img align="center" src="https://streak-stats.demolab.com/?user=KhagendraN&theme=default_repocard&hide_border=false" alt="Khagendra's Top Languages"/>
     <br/><br/>
-    <img align="center" src="https://streak-stats.demolab.com?user=KhagendraN&theme=gruvbox&hide_border=true" alt="Khagendra's GitHub Streak"/>
+    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Khagendra's GitHub Streak"/>
   </p>
 </details>
 
