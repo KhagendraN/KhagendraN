@@ -17,19 +17,20 @@
 
 ---
 
-## 📈My Stats
+
+## 📈 My Stats
+
 <details>
-  <summary><strong>See My GitHub Stats</strong></summary>
+  <summary><strong>Click to view GitHub Stats</strong></summary>
   <br/>
-  <p align="left">
-    <img align="center" src="https://github-readme-stats.shion.dev/api?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true" alt="Khagendra's GitHub Stats"/>
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true" alt="Khagendra's GitHub Stats" />
     <br/><br/>
-    <img align="center" src="https://streak-stats.demolab.com/?user=KhagendraN&theme=default_repocard&hide_border=false" alt="Khagendra's Top Languages"/>
+    <img src="https://streak-stats.demolab.com/?user=KhagendraN&theme=default_repocard&hide_border=false" alt="Khagendra's GitHub Streak" />
     <br/><br/>
-    <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Khagendra's GitHub Streak"/>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KhagendraN&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Khagendra's Top Languages" />
   </p>
 </details>
-
 ---
 
 ## 🛠️ My Tech Stack
